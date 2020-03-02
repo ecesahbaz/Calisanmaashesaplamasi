@@ -1,0 +1,11 @@
+C:\Users\oem\source\repos\Algoritma2ödev\Algoritma2ödev\bin\Debug\Algoritma2ödev.exe.config
+C:\Users\oem\source\repos\Algoritma2ödev\Algoritma2ödev\bin\Debug\Algoritma2ödev.exe
+C:\Users\oem\source\repos\Algoritma2ödev\Algoritma2ödev\bin\Debug\Algoritma2ödev.pdb
+C:\Users\oem\source\repos\Algoritma2ödev\Algoritma2ödev\obj\Debug\Algoritma2ödev.csprojAssemblyReference.cache
+C:\Users\oem\source\repos\Algoritma2ödev\Algoritma2ödev\obj\Debug\Algoritma2ödev.csproj.CoreCompileInputs.cache
+C:\Users\oem\source\repos\Algoritma2ödev\Algoritma2ödev\obj\Debug\Algoritma2ödev.exe
+C:\Users\oem\source\repos\Algoritma2ödev\Algoritma2ödev\obj\Debug\Algoritma2ödev.pdb
+C:\Users\oem\Desktop\1.sınıf bsm\algoritma\Algoritma2ödev\Algoritma2ödev\obj\Debug\Algoritma2ödev.csprojAssemblyReference.cache
+C:\Users\oem\Desktop\1.sınıf bsm\algoritma\Algoritma2ödev\Algoritma2ödev\obj\Debug\Algoritma2ödev.csproj.CoreCompileInputs.cache
+C:\Users\oem\Desktop\1.sınıf bsm\algoritma\Algoritma2ödev\Algoritma2ödev\obj\Debug\Algoritma2ödev.exe
+C:\Users\oem\Desktop\1.sınıf bsm\algoritma\Algoritma2ödev\Algoritma2ödev\obj\Debug\Algoritma2ödev.pdb
